@@ -1,0 +1,47 @@
+name: progress_follower
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.8.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_cupertino_localizations: ^1.0.1
+
+  bloc: ^6.1.0
+  flutter_bloc: ^6.1.0
+  equatable: ^1.2.5
+  url_launcher: ^5.7.10
+  dio: ^3.0.10
+  flutter_svg: ^0.19.1
+  shared_preferences: ^0.5.12+4
+  cached_network_image: ^2.3.3
+  carousel_slider: ^2.3.1
+  recase: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/trakt_logos_icon/trakt_icon_black.svg
+    - assets/images/trakt_logos_icon/trakt_icon_red_white.svg
+    - assets/images/trakt_logos_icon/trakt_icon_red.svg
+    - assets/images/trakt_logos_icon/trakt_icon_white.svg
+    - assets/images/trakt_logos_tall/trakt_tall_black.svg
+    - assets/images/trakt_logos_tall/trakt_tall_red_black.svg
+    - assets/images/trakt_logos_tall/trakt_tall_red_white.svg
+    - assets/images/trakt_logos_tall/trakt_tall_white.svg
+    - assets/images/trakt_logos_wide/trakt_wide_black.svg
+    - assets/images/trakt_logos_wide/trakt_wide_red_black.svg
+    - assets/images/trakt_logos_wide/trakt_wide_red_white.svg
+    - assets/images/trakt_logos_wide/trakt_wide_white.svg
+    - assets/images/sb_logo.svg

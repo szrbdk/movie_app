@@ -1,0 +1,9 @@
+{
+    "trakt_login" : "Trakt.TV ile bağlan.",
+    "login_without_auth" : "Bağlanmadan devam et.",
+    "login_failed": "Giriş başarısız.",
+    "try_again": "Lütfen tekrar deneyin.",
+    "ok": "TAMAM",
+    "login": "Giriş yap",
+    "code_lenght_warning": "Giriş kodu 8 karakter olmalıdır."
+}

@@ -1,0 +1,9 @@
+{
+    "trakt_login" : "Login with Trakt.TV",
+    "login_without_auth" : "Contiune without login.",
+    "login_failed": "Login failed.",
+    "try_again": "Please try again.",
+    "ok": "OK",
+    "login": "Login",
+    "code_lenght_warning": "Code must be 8 character"
+}
